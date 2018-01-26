@@ -1,0 +1,10 @@
+C:\Users\RHighsmith\Projects\ng2-fundamentals\app\events\obj\Debug\netcoreapp2.0\events.csproj.CoreCompileInputs.cache
+C:\Users\RHighsmith\Projects\ng2-fundamentals\app\events\obj\Debug\netcoreapp2.0\events.AssemblyInfoInputs.cache
+C:\Users\RHighsmith\Projects\ng2-fundamentals\app\events\obj\Debug\netcoreapp2.0\events.AssemblyInfo.cs
+C:\Users\RHighsmith\Projects\ng2-fundamentals\app\events\bin\Debug\netcoreapp2.0\events.deps.json
+C:\Users\RHighsmith\Projects\ng2-fundamentals\app\events\bin\Debug\netcoreapp2.0\events.runtimeconfig.json
+C:\Users\RHighsmith\Projects\ng2-fundamentals\app\events\bin\Debug\netcoreapp2.0\events.runtimeconfig.dev.json
+C:\Users\RHighsmith\Projects\ng2-fundamentals\app\events\bin\Debug\netcoreapp2.0\events.dll
+C:\Users\RHighsmith\Projects\ng2-fundamentals\app\events\bin\Debug\netcoreapp2.0\events.pdb
+C:\Users\RHighsmith\Projects\ng2-fundamentals\app\events\obj\Debug\netcoreapp2.0\events.dll
+C:\Users\RHighsmith\Projects\ng2-fundamentals\app\events\obj\Debug\netcoreapp2.0\events.pdb
