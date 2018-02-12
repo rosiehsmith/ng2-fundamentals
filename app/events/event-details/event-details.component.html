@@ -13,12 +13,21 @@
         <div><strong>Time:</strong> {{event?.time}}</div>
         <div><strong>Price:</strong> ${{event?.price}}</div>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-6" [hidden]="!event.location">
         <address>
           <strong>Address:</strong><br />
           {{event?.location?.address}}<br />
           {{event?.location?.city}}, {{event?.location?.country}}
         </address>
       </div>
+      <div class="col-md-6" [hidden]="!event.onlineUrl">
+          <span>Online URL: {{event.onlineUrl}}</span>
+      </div>
+
+
     </div>
+
+    <hr>
+
+    <session-list [sessions]="event?.sessions" ></session-list>
   </div>
